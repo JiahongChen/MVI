@@ -9,6 +9,10 @@ This is the Python+PyTorch code to reproduce the results of domain adaptation in
 * Packages: ```pandas, numpy, scipy, argparse, tqdm```.
 * Hardware : Nvidia GPU
 
+# Run the code
+* Download ResNet-50 pretrained model and place it under ```/model```.
+* Download necessary datasets.
+* Run bash file ```batchrun.sh```
 
 
 # Citation

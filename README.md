@@ -10,8 +10,8 @@ This is the Python+PyTorch code to reproduce the results of domain adaptation in
 * Hardware : Nvidia GPU
 
 # Run the code
-* Download ResNet-50 pretrained model and place it under ```/model```.
-* Download necessary datasets.
+* Download ResNet-50 pretrained model and place it under ```model/```.
+* Download necessary DA datasets and place it under ```data/```.
 * Run bash file ```batchrun.sh```
 
 
